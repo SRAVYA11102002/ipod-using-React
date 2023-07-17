@@ -9,7 +9,7 @@ import songs from "../../assets/songs/songs";
 
 // Stateful App Class Component to Render the App as a whole
 class App extends React.Component {
-	//-------------------------------------------------------------------------------------------
+	
 	// Constructor for initialization of State and Ref
 	constructor() {
 		super();
